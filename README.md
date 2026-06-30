@@ -17,3 +17,7 @@ simple python program calculated an amount of hours remaining until specific dea
 - `user.py` contains definition of User class
 - `main.py` creates instances of Post and User class and calls their methods. 
 
+**branch gitlab_API**
+- using `requests` python library all my projects available on my GitLab repository are returned as name and URL
+
+
